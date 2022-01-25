@@ -3,7 +3,7 @@
  * Provides the JavaScript interactions for all pages.
  *
  * @author 
- * PUT_YOUR_NAME_HERE
+ * Sam Stieby, Hayden Mattick, Ryan Nikolic
  */
 
 /** namespace. */
@@ -14,7 +14,7 @@ rhit.variableName = "";
 
 /** function and class syntax examples */
 rhit.functionName = function () {
-	/** function body */
+
 };
 
 rhit.ClassName = class {
