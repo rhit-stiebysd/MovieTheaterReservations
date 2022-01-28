@@ -1,0 +1,22 @@
+{
+  "name": "movietheaterreservations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"it started\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "movietheaterreservations"
+  },
+  "author": "Sam Stieby, Ryan Nikolic, Hayden Mattick",
+  "license": "ISC",
+  "live": "nodemon app.js"
+}
